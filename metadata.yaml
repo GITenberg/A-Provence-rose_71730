@@ -5,12 +5,17 @@ contributor:
     agent_name: Sacker, Amy Maria
     gutenberg_agent_id: '56362'
     url: http://www.gutenberg.org/2009/agents/56362
+covers:
+- cover_type: archival
+  image_path: 71730-h/images/cover.jpg
 creator:
   author:
     agent_name: Ramé, Louisa de la
     gutenberg_agent_id: '56361'
     url: http://www.gutenberg.org/2009/agents/56361
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71730#A-Provence-rose
 gutenberg_issued: '2023-09-26'
 identifiers:
   gutenberg: '71730'
